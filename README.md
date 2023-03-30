@@ -1,6 +1,7 @@
 # cont_pessoas
 
-A new Flutter project.
+A finalidade deste App é, contar a quantidade de clientes em um estabelecimento.
+Ele foi pensado para, na época da pandemia, controlar o numero de pessoas no ambiente.
 
 ## Getting Started
 
